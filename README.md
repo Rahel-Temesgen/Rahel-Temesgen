@@ -1,4 +1,19 @@
-## Hi there 👋
+# Rahel-Temesgen
+### Hi there 👋
+
+I'm currently a **Software Engineering student** at **Bahirdar Institute of Technology (Bit)**, and passionate about building impactful software solutions.  
+
+ I enjoy working on:
+- Software Development  
+-  Web Development  
+-  Full-Stack Development  
+
+🌱 I'm always learning and striving to improve my skills as a developer.  
+ My big goal is to **create something meaningful that impacts lives** and to become a **strong problem solver** in the tech world.
+
+Let's connect and build something amazing together!
+
+You can reach me at: racheltemesgen13716@gmail.com
 
 <!--
 **Rahel-Temesgen/Rahel-Temesgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
