@@ -1,5 +1,5 @@
 
-### Hi there, it's Rahel 👋
+# Hi there, it's Rahel 👋
 
 I'm currently a **Software Engineering student** at **Bahirdar Institute of Technology (Bit)**, and passionate about building impactful software solutions.  
 
