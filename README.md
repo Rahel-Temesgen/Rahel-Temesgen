@@ -13,7 +13,7 @@ I'm currently a **Software Engineering student** at **Bahirdar Institute of Tech
 
 Let's connect and build something amazing together!
 
-**You can reach me at:**  Email: racheltemesgen13716@gmail.com and Linkedin: Rahel Temesgen
+**You can reach me at:** racheltemesgen13716@gmail.com and **on Linkedin:** Rahel Temesgen
 
 <!--
 **Rahel-Temesgen/Rahel-Temesgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
